@@ -1,0 +1,43 @@
+📘 Project Info
+
+Idea & Credit:
+TikTok: @nhathao1862007 (cre idea tiktok: @binanee)
+
+If you find this project useful, please consider following for more updates.
+It really helps keep me motivated to continue working on future releases 🙌
+
+📦 Usage & License
+
+You are free to use, modify, and adapt this project for any purpose
+
+Credit must be retained (do not remove original credit)
+
+🖼️ Layout & Assets
+
+Cover: Can be redesigned using Canva (A4 size)
+
+Content placement: Images are used in Chapter 1, 2, and 3
+
+Public release:
+
+3 pages
+
+15 images total
+
+Optimized for performance (too many pages may cause lag)
+
+📁 File Structure
+/assets
+ ├── 1.png
+ ├── 2.png
+ ├── 3.png
+ ├── 4.png
+ └── 5.png
+
+📢 Notes
+
+This is a public share version
+
+Designed to be lightweight and easy to integrate
+
+Feel free to fork or remix — just keep the credit ❤️
